@@ -1,0 +1,10 @@
+What is ocean acidification?|Increase in ocean salinity,Decrease in ocean pH,Rise in sea levels,Expansion of ocean surface area|2
+Which gas is primarily responsible for ocean acidification?|Oxygen,Nitrogen,Carbon Dioxide,Methane|3
+Name one major source of carbon dioxide that contributes to ocean acidification.|Automobile emissions,Volcanic eruptions,Deforestation,Burning fossil fuels|4
+How does ocean acidification affect marine life?|Promotes growth of coral reefs,Decreases oxygen levels in the water,Impairs shell and skeleton formation,Increases biodiversity|3
+What are some examples of marine organisms vulnerable to ocean acidification?|Sharks and Whales,Jellyfish and Sea Anemones,Seagrasses and Kelp,Oysters and Coral|4
+How does ocean acidification impact coral reefs?| Accelerates their growth,Enhances coral bleaching events,Reduces sensitivity to temperature changes,Increases their resilience to diseases|2
+What is the pH scale, and how is it related to ocean acidification?|Measures temperature variations in the ocean,Measures acidity or alkalinity of a solution because llower pH indicates higher acidity,Measures pressure in the ocean depths,Measures the salinity of ocean water|2
+How do shellfish and other calcifying organisms respond to ocean acidification?|They become more resistant to predators,They grow larger shells,They experience decreased growth and weakened shells,They migrate to deeper ocean regions|3
+How does ocean acidification affect ecosystems beyond the ocean?|It has no impact beyond marine ecosystems,It disrupts weather patterns,It affects global carbon cycling,It promotes desertification|3
+Can human activities reduce the rate of ocean acidification? If so, how?|No, it is a natural process,Yes, by reducing carbon emissions,Yes, by increasing industrial pollution,Yes, by overfishing marine species|2
